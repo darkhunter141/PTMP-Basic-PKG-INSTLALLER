@@ -52,7 +52,8 @@ if res == "y" :
     pkg ()
    
 else :
-    print ("Good Bye")
+    print ("Good Bye Bro")
+
     exit ()
     
 # Done :*)
